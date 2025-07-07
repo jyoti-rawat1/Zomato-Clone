@@ -21,7 +21,7 @@ A Zomato-inspired mobile application built using **React Native CLI** and **Type
 - TypeScript
 - React Navigation (Stack + Tab)
 - React Native Vector Icons
-- Hooks (`useState`, `useEffect`)
+- Hooks (`useState`)
 - FlatList, ScrollView
 
 ---
